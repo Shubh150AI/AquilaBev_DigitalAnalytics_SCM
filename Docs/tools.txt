@@ -1,0 +1,6 @@
+
+AZURE Data lake + Databricks (SparkSQL /Pyspark) + Python + Airflow
+
+Power BI + DAX + SQL
+
+GITHUB + GITLAB
