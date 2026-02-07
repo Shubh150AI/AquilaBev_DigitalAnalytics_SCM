@@ -1,0 +1,93 @@
+{
+  "name": "Teal Turquoise Green Theme",
+  "dataColors": [
+    "#008080",
+    "#20B2AA",
+    "#2E8B57",
+    "#3CB371",
+    "#66CDAA",
+    "#008B8B",
+    "#00CED1",
+    "#5F9EA0",
+    "#48D1CC",
+    "#40E0D0"
+  ],
+  "background": "#E0F2F1",
+  "foreground": "#004D40",
+  "tableAccent": "#008080",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [
+          {
+            "solid": {
+              "color": "#004D40"
+            }
+          }
+        ]
+      }
+    },
+    "titleText": {
+      "*": {
+        "color": [
+          {
+            "solid": {
+              "color": "#00695C"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 14
+          }
+        ],
+        "fontFamily": [
+          {
+            "value": "Segoe UI Semibold"
+          }
+        ]
+      }
+    },
+    "header": {
+      "*": {
+        "background": [
+          {
+            "solid": {
+              "color": "#4DB6AC"
+            }
+          }
+        ],
+        "color": [
+          {
+            "solid": {
+              "color": "#E0F2F1"
+            }
+          }
+        ],
+        "fontWeight": [
+          {
+            "value": "bold"
+          }
+        ]
+      }
+    },
+    "footer": {
+      "*": {
+        "background": [
+          {
+            "solid": {
+              "color": "#004D40"
+            }
+          }
+        ],
+        "color": [
+          {
+            "solid": {
+              "color": "#B2DFDB"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
